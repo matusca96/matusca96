@@ -10,4 +10,4 @@ I'm a developer from Brazil, using the best web & mobile technologies to build s
 ### Contact with me:
 [![Instagram Badge](https://img.shields.io/badge/-matusca96-07824d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matusca96/)](https://www.instagram.com/matusca96/)
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Gomes-07824d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-andr%C3%A9-gomes-ba5871112/)](https://www.linkedin.com/in/matheus-andr%C3%A9-gomes-ba5871112/)
-[![Gmail Badge](https://img.shields.io/badge/-gomesloud@gmail.com-07824d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-gomesloud@gmail.com-07824d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomesloud@gmail.com)](mailto:gomesloud@gmail.com) 

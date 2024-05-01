@@ -1,6 +1,6 @@
 ### Hello, there! 👋
 
-I'm a developer from Brazil, using the best web & mobile technologies to build solutions that makes people's life easier.
+I'm a frontend-focused software engineer with extensive experience in React.js and Typescript. Proven leadership as a tech lead in major international firms. Dedicated to optimizing product performance and reliability, fostering collaboration, and driving company growth.
 
 <div style="display: flex;">
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=matusca96&hide_border=true&show_icons=true&theme=blue-green&count_private=true" />

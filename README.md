@@ -1,13 +1,21 @@
-### Hello, there! 👋
+# Hello, I'm Matheus, nice to meet you! 👋
 
-I'm a frontend-focused software engineer with extensive experience in React.js and Typescript. Proven leadership as a tech lead in major international firms. Dedicated to optimizing product performance and reliability, fostering collaboration, and driving company growth.
+**I'm a software engineer with passion for impacting users with magical software experiences.** I strongly believe in a mindset where the focus is the product and the user experience: understand how your customer think, and how you can make his experience to be unique, aggregating business value to the product.
 
-<div style="display: flex;">
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=matusca96&hide_border=true&show_icons=true&theme=blue-green&count_private=true" />
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusca96&hide_border=true&layout=compact&theme=blue-green&count_private=true" />
-</div>
+I'm currently working as a **Frontend Engineer / Tech Lead** in [Moongy](https://moongy.group) (Consulting) alocated in [Ceva Logistics](https://www.cevalogistics.com/), one of the biggest supply chain management in the world.
 
-### Contact with me:
-[![Instagram Badge](https://img.shields.io/badge/-matusca96-07824d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matusca96/)](https://www.instagram.com/matusca96/)
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Gomes-07824d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-andr%C3%A9-gomes-ba5871112/)](https://www.linkedin.com/in/matusca96/)
-[![Gmail Badge](https://img.shields.io/badge/-gomesloud@gmail.com-07824d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gomesloud@gmail.com)](mailto:gomesloud@gmail.com) 
+I also have past experiences in growth/expansion stage startups such as [Rivian](https://rivian.com/).
+
+To get more details, check my [resume](https://docs.google.com/document/d/e/2PACX-1vTeRt_nfqzprk7_jOF3u4qQMLkDMhKqwvA18Ksjzy5yd1tBINt1sYodCGddsIQm7mDBcGPQPyLkENMM/pub).
+
+#### About my skills:
+
+- Design Engineering: React, Next.js, Typescript/Javascript, Tailwind, Chakra UI, styled-components
+- Mobile Engineering: React Native, Expo
+- Backend Engineering: Typescript/Javascript, Node.js, NestJS, REST, GraphQL, Supabase
+- Databases: PostgreSQL, SQLite
+- Infrastructure and CI/CD: AWS, Docker, Vercel, Jenkins
+
+As my hobbies and personal life, nowadays I enjoy to spend time with my wife in series/movies marathons, go for a walk, play with our 4 dogs and 2 cats (and now a hamster as well), practice table tennis, and occasionally play competitive video games with my friends.
+
+If you want to get in touch, please feel free to DM me in [linkedin](https://www.linkedin.com/in/matusca96/).

@@ -6,7 +6,7 @@ I'm currently working as a **Frontend Engineer / Tech Lead** in [Moongy](https:/
 
 I also have past experiences in growth/expansion stage startups such as [Rivian](https://rivian.com/).
 
-To get more details, check my [resume](https://docs.google.com/document/d/e/2PACX-1vTeRt_nfqzprk7_jOF3u4qQMLkDMhKqwvA18Ksjzy5yd1tBINt1sYodCGddsIQm7mDBcGPQPyLkENMM/pub).
+To get more details, check my [resume](https://docs.google.com/document/d/1csP68rj7b1jprouD8bZReMA91r5Lav3vGar9IXoRRe4).
 
 #### About my skills:
 
